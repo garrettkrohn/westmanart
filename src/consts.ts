@@ -40,6 +40,9 @@ export const SEO_INFO = [
     name: "description",
     content: "Art portfolio made by Rachel Westman",
   },
-  { name: "keywords", content: "Art portfolio, Digital art, gallery" },
+  {
+    name: "keywords",
+    content: "Art portfolio, Digital art, gallery, paintings",
+  },
   { name: "author", content: PERSONAL_INFO.name },
 ];
